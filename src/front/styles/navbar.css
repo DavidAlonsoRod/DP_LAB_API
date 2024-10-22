@@ -1,0 +1,18 @@
+#navbar {
+    background-color: #0d183f;
+    font-weight: lighter;
+    color: white; /* Para todo el texto dentro del navbar */
+}
+
+#navbar a, 
+#navbar button {
+    color: white; /* Asegúrate de que los enlaces y botones hereden el color blanco */
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: rgb(32, 55, 29);
+}
