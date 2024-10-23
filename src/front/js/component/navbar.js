@@ -20,7 +20,7 @@ export const Navbar = () => {
 			<div className="container navbar">
 
 				<div className="left-section">
-					<h2 className="m-3">Api Lab</h2>
+					<h2 className="m-3">Wocoomerce Product Manager</h2>
 					<h5 className="m-3">Gestión de fabricación y envío de productos de Woocommerce</h5>
 
 				</div>
